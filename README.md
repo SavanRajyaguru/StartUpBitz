@@ -1,6 +1,6 @@
 # StartupBitz
 
-A new Flutter project.
+This application created using flutter. And it shows details information about Indian statup.
 
 ## Getting Started
 
