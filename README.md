@@ -1,4 +1,4 @@
-# startupbits
+# StartupBitz
 
 A new Flutter project.
 
